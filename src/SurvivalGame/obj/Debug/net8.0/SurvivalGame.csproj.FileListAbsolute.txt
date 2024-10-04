@@ -1,0 +1,15 @@
+/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/bin/Debug/net8.0/SurvivalGame
+/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/bin/Debug/net8.0/SurvivalGame.deps.json
+/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/bin/Debug/net8.0/SurvivalGame.runtimeconfig.json
+/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/bin/Debug/net8.0/SurvivalGame.dll
+/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/bin/Debug/net8.0/SurvivalGame.pdb
+/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/obj/Debug/net8.0/SurvivalGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/obj/Debug/net8.0/SurvivalGame.AssemblyInfoInputs.cache
+/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/obj/Debug/net8.0/SurvivalGame.AssemblyInfo.cs
+/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/obj/Debug/net8.0/SurvivalGame.csproj.CoreCompileInputs.cache
+/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/obj/Debug/net8.0/SurvivalGame.sourcelink.json
+/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/obj/Debug/net8.0/SurvivalGame.dll
+/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/obj/Debug/net8.0/refint/SurvivalGame.dll
+/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/obj/Debug/net8.0/SurvivalGame.pdb
+/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/obj/Debug/net8.0/SurvivalGame.genruntimeconfig.cache
+/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/obj/Debug/net8.0/ref/SurvivalGame.dll

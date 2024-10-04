@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/Game/Game.csproj",
-      "projectName": "Game",
-      "projectPath": "/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/Game/Game.csproj",
+      "projectUniqueName": "/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/SurvivalGame.csproj",
+      "projectName": "SurvivalGame",
+      "projectPath": "/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/SurvivalGame.csproj",
       "packagesPath": "/Users/alexmccorkle/.nuget/packages/",
-      "outputPath": "/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/Game/obj/",
+      "outputPath": "/Users/alexmccorkle/Documents/GitHub/Random Projects/survivalGame/src/SurvivalGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alexmccorkle/.nuget/NuGet/NuGet.Config"

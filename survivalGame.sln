@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CBB3839A-5B1D-47A4-B7D6-F2963B7B7760}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FF8E20A5-F680-4B00-882D-46E507C9DC97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "src\Game\Game.csproj", "{B7B3FD35-CB03-48B4-BFA2-A4F6280D3F27}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivalGame", "src\SurvivalGame\SurvivalGame.csproj", "{702AF4B7-B2FD-4EB8-992B-905FFD22B2A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,12 +16,12 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B7B3FD35-CB03-48B4-BFA2-A4F6280D3F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7B3FD35-CB03-48B4-BFA2-A4F6280D3F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7B3FD35-CB03-48B4-BFA2-A4F6280D3F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7B3FD35-CB03-48B4-BFA2-A4F6280D3F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{702AF4B7-B2FD-4EB8-992B-905FFD22B2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702AF4B7-B2FD-4EB8-992B-905FFD22B2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702AF4B7-B2FD-4EB8-992B-905FFD22B2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702AF4B7-B2FD-4EB8-992B-905FFD22B2A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{B7B3FD35-CB03-48B4-BFA2-A4F6280D3F27} = {CBB3839A-5B1D-47A4-B7D6-F2963B7B7760}
+		{702AF4B7-B2FD-4EB8-992B-905FFD22B2A5} = {FF8E20A5-F680-4B00-882D-46E507C9DC97}
 	EndGlobalSection
 EndGlobal
