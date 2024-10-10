@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace SurvivalGame
 {
@@ -7,8 +8,8 @@ namespace SurvivalGame
     public int Health { get; set; }
     public int Hunger { get; set; }
     public int Strength { get; set; }
-    public const int MaxHealth = 100;
-    public const int MaxHunger = 100;
+    public static int MaxHealth = 100;
+    public static int MaxHunger = 100;
     public bool foundFood { get; set; }
 
 
